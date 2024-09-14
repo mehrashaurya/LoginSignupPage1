@@ -64,5 +64,9 @@ npm run dev
 
 ![Screenshot 2024-09-14 141322](https://github.com/user-attachments/assets/1bf1bbba-7731-44f6-8ad5-8152d8aa97d7)
 
+#### Passwords are not getting saved directly but in the form of tokens.
+
+![WhatsApp Image 2024-09-14 at 14 32 27_ae229829](https://github.com/user-attachments/assets/df495c26-9515-4f1a-aa46-f8af24a511a8)
+
 ----------
 Thank You.
